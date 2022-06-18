@@ -23,7 +23,7 @@ function correctPolishLetters (string) {
   ń: "n",
   ó: "o",
   ś: "s",
-  ź: "z",
+  ź: "z", //use object
   ż: "z"};
   for (let i in letters){
     string = string.split('').map(e => e == i ? letters[i] : e).join('');
