@@ -34,7 +34,7 @@ function alphabetWar(fight)
   const right=arr.filter(v=>v.match(/[mqdz]/g)).map(v=>dictR[v]).reduce((a,b)=>a+b,0);
   return left>right?"Left side wins!":left<right?"Right side wins!":"Let's fight again!";
 }
-// console.log( alphabetWar("zdqmwpbs") , "Let's fight again!" )
-// console.log( alphabetWar("zzzzs"), "Right side wins!" )
-// console.log( alphabetWar("wwwwww"), "Left side wins!" )
-alphabetWar("zdqmwpbs")
+console.log( alphabetWar("zdqmwpbs") , "Let's fight again!" )
+console.log( alphabetWar("zzzzs"), "Right side wins!" )
+console.log( alphabetWar("wwwwww"), "Left side wins!" )
+// alphabetWar("zdqmwpbs")
