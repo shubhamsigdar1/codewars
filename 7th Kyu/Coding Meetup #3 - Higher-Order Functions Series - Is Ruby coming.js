@@ -27,4 +27,4 @@ function isRubyComing(list) {
     { firstName: 'Lukas', lastName: 'X.', country: 'Croatia', continent: 'Europe', age: 35, language: 'Python' } 
   ];
   console.log(isRubyComing(list1), true)
-  console.log(isRubyComing(list2), false)
+  console.log(isRubyComing(list2))
