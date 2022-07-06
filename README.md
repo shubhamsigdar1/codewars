@@ -1,7 +1,7 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/shubhamsigdar" >Visit Here</a> 
 
-![alt tag](https://user-images.githubusercontent.com/102561192/168458123-f7bb4d57-0633-422c-8222-03447f6e7e0b.JPG)
-A repository filled with codewars challenges (kata). Currently Ranked #163,494 on the global leaderboard, Completed over 100+ challenges and Push 5 solutions every week.
+
+A repository filled with codewars challenges (kata). Completed over 200+ challenges and Push 5 solutions every week.
 
 ## How It's Made:
 
