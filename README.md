@@ -3,6 +3,13 @@
 
 A repository filled with codewars challenges (kata). Completed over 200+ challenges and Push 5 solutions every week.
 
+
+## Stats
+<p align="left" dir="auto">
+  <a href="https://github.com/shubhamsigdar1/codewars" rel="nofollow"><img src="https://www.codewars.com/users/shubhamsigdar/badges/small" style="max-width: 100%;"></a>
+</p>
+
+
 ## How It's Made:
 
 **Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
