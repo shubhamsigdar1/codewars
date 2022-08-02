@@ -23,5 +23,5 @@ function solve(a,b){
   console.log(solve("xyabb","xzca"),"ybbzc")
   console.log(solve("abcd","xyz"),"abcdxyz")
   console.log(solve("xxx","xzca"),"zca")
-  // solve("xyab","xzca")
+  solve("xyab","xzca")
   
