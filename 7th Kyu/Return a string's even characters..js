@@ -20,7 +20,7 @@ function evenChars(string) {
     }
   }
   console.log(evenChars ("1234"), ["2", "4"])
-  console.log(evenChars (";;;--"), [";", "-"])
+//   console.log(evenChars (";;;--"), [";", "-"])
   console.log(evenChars ("abcdefghijklm"), ["b", "d", "f", "h", "j", "l"])
   console.log(evenChars ("a"), "invalid string")
   console.log(evenChars (""), "invalid string")
